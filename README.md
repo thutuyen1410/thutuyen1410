@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my Git!
-This is where I keep soem of my little project demonstrates how to process and analyze data using Python. It includes techniques such as Principal Component Analysis (PCA), cross-validation, and data visualization to extract meaningful insights from raw datasets.
+This is where I keep some of my little projects demonstrates how I learn and manage to process and analyze data using Python. It includes techniques such as Principal Component Analysis (PCA), cross-validation, and data visualization to extract meaningful insights from raw datasets.
 
 ## 📌 Features
 

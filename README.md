@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**thutuyen1410/thutuyen1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Git!
+This is where I keep soem of my little project demonstrates how to process and analyze data using Python. It includes techniques such as Principal Component Analysis (PCA), cross-validation, and data visualization to extract meaningful insights from raw datasets.
 
-Here are some ideas to get you started:
+## 📌 Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Preprocessing of data (normalization, filtering)
+- Dimensionality reduction using PCA
+- Model validation with k-fold cross-validation
+- Visualizations with matplotlib and seaborn
+- Reproducible pipeline using Jupyter Notebook
+
+## 🛠️ Technologies Used
+
+- Python 3.10+
+- NumPy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
+- 🤔 I’m looking for help with earning experience to kickstart Data Science career
+- 📫 How to reach me: thutuyen1410@gmail.com
+- 😄 Pronouns: Ms/She/Her/hers
+- ⚡ Fun fact: This git is to seek advice and mentor to kickstart career in Data Science.
+
